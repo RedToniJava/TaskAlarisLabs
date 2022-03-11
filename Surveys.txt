@@ -1,0 +1,7 @@
+
+ 2
+Where are you from?
+1) America
+1) Europe
+1) Asia
+1) Africa
